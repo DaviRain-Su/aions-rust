@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "ops",
+    "use-ops",
+    "mix-program",
+]
+resolver = "2"
